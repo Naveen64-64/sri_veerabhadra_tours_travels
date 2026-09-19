@@ -1,0 +1,478 @@
+[
+  {
+    "title": "Sri Veerabhadra Tours and Travels - Company Overview",
+    "content": "Sri Veerabhadra Tours and Travels is a travel service business focused on car and bus travel services. Customers can contact the business for vehicle availability, travel arrangements, routes, and tour requirements.",
+    "category": "company",
+    "source": "company_information",
+    "metadata": {
+      "topic": "company overview"
+    }
+  },
+  {
+    "title": "Sri Veerabhadra Tours and Travels - Contact",
+    "content": "For travel enquiries, customers can contact Sri Veerabhadra Tours and Travels by phone at 9542659999 or by email at sriveerabhadratoursandtravels@gmail.com.",
+    "category": "contact",
+    "source": "company_information",
+    "metadata": {
+      "phone": "9542659999",
+      "email": "sriveerabhadratoursandtravels@gmail.com"
+    }
+  },
+  {
+    "title": "Car Travel Services",
+    "content": "Sri Veerabhadra Tours and Travels provides car-based travel services for local travel, outstation trips and tourism requirements. Customers should contact the business to confirm vehicle availability and current pricing.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "car travel"
+    }
+  },
+  {
+    "title": "Bus Travel Services",
+    "content": "Sri Veerabhadra Tours and Travels provides bus travel services. Customers can contact the business to ask about available buses, routes, schedules, seating and current fares.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "bus travel"
+    }
+  },
+  {
+    "title": "Vehicle Availability Enquiry",
+    "content": "Vehicle availability can change depending on bookings and travel dates. Customers should provide their journey date, pickup location, destination, passenger count and preferred vehicle type when requesting availability.",
+    "category": "faq",
+    "source": "company_information",
+    "metadata": {
+      "topic": "availability"
+    }
+  },
+  {
+    "title": "Car Booking Information",
+    "content": "For a car booking enquiry, provide the pickup location, destination, travel date, number of passengers and approximate trip duration. Current vehicle availability and pricing should be confirmed with Sri Veerabhadra Tours and Travels.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "topic": "car booking"
+    }
+  },
+  {
+    "title": "Bus Booking Information",
+    "content": "For a bus booking enquiry, provide the route, travel date, passenger count and preferred bus type if known. Current availability, schedule and fare should be confirmed with Sri Veerabhadra Tours and Travels.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "topic": "bus booking"
+    }
+  },
+  {
+    "title": "Travel Enquiry Details",
+    "content": "Useful information for a travel enquiry includes pickup point, destination, travel date, return date if applicable, number of passengers, luggage requirements and preferred vehicle type.",
+    "category": "faq",
+    "source": "company_information",
+    "metadata": {
+      "topic": "enquiry"
+    }
+  },
+  {
+    "title": "Outstation Travel",
+    "content": "Outstation travel can be arranged using cars or buses depending on availability and trip requirements. Customers should contact Sri Veerabhadra Tours and Travels for route-specific vehicle and fare information.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "outstation travel"
+    }
+  },
+  {
+    "title": "Tour Planning Service",
+    "content": "Customers can ask Sri Veerabhadra Tours and Travels about customized tourism trips. A trip can be planned around destinations, travel dates, passenger count and preferred vehicle, subject to availability.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "tour planning"
+    }
+  },
+  {
+    "title": "Sripuram Tourism Guide",
+    "content": "Sripuram or Thirumalaikodi is a pilgrimage and tourism destination near Vellore, Tamil Nadu. The main attraction is the Sri Lakshmi Narayani Golden Temple. The Vellore District administration states that the temple is about 10 km from Vellore and is set within a 100-acre landscaped area.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "state": "Tamil Nadu"
+    }
+  },
+  {
+    "title": "Sri Lakshmi Narayani Golden Temple",
+    "content": "The Sri Lakshmi Narayani Golden Temple is the main attraction of Sripuram. It is dedicated to Sri Lakshmi Narayani and is known for extensive gold-covered temple artwork. The Vellore District administration records about 1,500 kg of gold used in the covering.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "attraction": "Golden Temple"
+    }
+  },
+  {
+    "title": "Sri Narayani Temple and Narayani Peedam",
+    "content": "The Sri Narayani Temple and Narayani Peedam are part of the spiritual complex associated with Sripuram and form part of the pilgrimage experience around the Golden Temple.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "attraction": "Narayani Peedam"
+    }
+  },
+  {
+    "title": "Sri Subramanya Swami Temple at Sripuram",
+    "content": "Sri Subramanya Swami Temple is a Murugan temple in the Thirumalaikodi and Sripuram area. It can be considered as an additional nearby religious stop for visitors.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "attraction": "Sri Subramanya Swami Temple"
+    }
+  },
+  {
+    "title": "Ariyur Sri Shiridi Saibaba Temple",
+    "content": "Ariyur Sri Shiridi Saibaba Temple is a nearby religious destination in the Vellore area that can be included in a wider Sripuram itinerary.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "attraction": "Ariyur Sri Shiridi Saibaba Temple"
+    }
+  },
+  {
+    "title": "Vellore Fort",
+    "content": "Vellore Fort is a major historical attraction in Vellore. The fort complex includes the Jalakandeswarar Temple, a mosque, a church, museums and other structures.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "attraction": "Vellore Fort"
+    }
+  },
+  {
+    "title": "Jalakandeswarar Temple",
+    "content": "Jalakandeswarar Temple is a historic Shiva temple located inside Vellore Fort. The Vellore District administration notes its Vijayanagara-era architecture.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "attraction": "Jalakandeswarar Temple"
+    }
+  },
+  {
+    "title": "Government Museum Vellore",
+    "content": "The Government Museum is located in the Vellore Fort area. It is useful for visitors interested in the history and heritage of the Vellore region.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "attraction": "Government Museum"
+    }
+  },
+  {
+    "title": "Amirthi Zoological Park",
+    "content": "Amirthi Zoological Park is a nature and wildlife attraction about 25 km south of Vellore. It is listed by the Vellore District administration among the tourist places of the region.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "attraction": "Amirthi Zoological Park"
+    }
+  },
+  {
+    "title": "Sripuram Travel Information",
+    "content": "Sripuram or Thirumalaikodi is in Vellore, Tamil Nadu. It is about 10 km from Vellore. The main attraction is the Sri Lakshmi Narayani Golden Temple. Katpadi Junction is the nearest major railway junction listed in the tourism guide.",
+    "category": "destination",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "distance_from_vellore_km": 10,
+      "railway": "Katpadi Junction"
+    }
+  },
+  {
+    "title": "Sripuram Pilgrimage Itinerary",
+    "content": "A Sripuram itinerary can include the Sri Lakshmi Narayani Golden Temple as the main attraction, followed by the Sri Narayani Temple and Narayani Peedam and other nearby religious or heritage attractions such as Vellore Fort.",
+    "category": "package",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram"
+    }
+  },
+  {
+    "title": "Kanipakam Tourism Guide",
+    "content": "Kanipakam in Chittoor District, Andhra Pradesh is a well-known pilgrimage destination famous for the Sri Varasiddhi Vinayaka Swamy Temple. The temple is about 11 km from Chittoor and about 68 km from Tirupati.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "state": "Andhra Pradesh"
+    }
+  },
+  {
+    "title": "Sri Varasiddhi Vinayaka Swamy Temple",
+    "content": "Sri Varasiddhi Vinayaka Swamy Temple is the main attraction of Kanipakam. It is dedicated to Lord Ganesha and is known for the Swayambhu or self-manifested deity associated with a water-filled well.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "attraction": "Sri Varasiddhi Vinayaka Swamy Temple"
+    }
+  },
+  {
+    "title": "Sri Varadaraja Swamy Temple Kanipakam",
+    "content": "Sri Varadaraja Swamy Temple is a Vishnu temple located near the main Kanipakam temple. It is one of the notable temples in the Kanipakam area.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "attraction": "Sri Varadaraja Swamy Temple"
+    }
+  },
+  {
+    "title": "Sri Manikanteswara Swamy Temple Kanipakam",
+    "content": "Sri Manikanteswara Swamy Temple is a Shiva temple in Kanipakam and is associated with Goddess Maragadambika. It is located close to the main temple.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "attraction": "Sri Manikanteswara Swamy Temple"
+    }
+  },
+  {
+    "title": "Kanipakam Temple Pushkarini",
+    "content": "Kanipakam Temple Pushkarini, also called Koneru, is the sacred temple water tank in front of the main temple complex and forms an important part of the pilgrimage setting.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "attraction": "Temple Pushkarini"
+    }
+  },
+  {
+    "title": "Kanipakam Temple Arch",
+    "content": "The Kanipakam Temple Arch is a prominent landmark on the Kanipakam-Tirupati road and serves as an entry landmark for visitors approaching the temple area.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "attraction": "Temple Arch"
+    }
+  },
+  {
+    "title": "Kanipakam Surroundings",
+    "content": "Visitors to Kanipakam can explore nearby local religious sites and the surrounding countryside. For a longer Chittoor-area itinerary, additional destinations can be added separately.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam"
+    }
+  },
+  {
+    "title": "Kanipakam Travel Information",
+    "content": "Kanipakam is in Chittoor District, Andhra Pradesh. The nearest major town listed in the guide is Chittoor, about 11 km away. Tirupati is about 68 km away. Chittoor Railway Station is the nearest railway station and Tirupati Airport is the nearest airport listed.",
+    "category": "destination",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "distance_from_chittoor_km": 11,
+      "distance_from_tirupati_km": 68
+    }
+  },
+  {
+    "title": "Kanipakam Pilgrimage Itinerary",
+    "content": "A Kanipakam pilgrimage itinerary can focus on Sri Varasiddhi Vinayaka Swamy Temple and can include Sri Varadaraja Swamy Temple, Sri Manikanteswara Swamy Temple and the Temple Pushkarini.",
+    "category": "package",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam"
+    }
+  },
+  {
+    "title": "Kanipakam and Tirupati Travel Planning",
+    "content": "Kanipakam is about 68 km from Tirupati according to the tourism guide. A combined Chittoor-area travel plan can include Kanipakam and other destinations, subject to the customer's travel schedule and vehicle availability.",
+    "category": "route",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "from": "Tirupati",
+      "to": "Kanipakam",
+      "distance_km": 68
+    }
+  },
+  {
+    "title": "Pilgrimage Travel by Car",
+    "content": "Customers planning pilgrimage trips can request a car for destinations such as Sripuram or Kanipakam. The requested date, passenger count, pickup point and destinations should be provided so vehicle availability can be checked.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "pilgrimage travel"
+    }
+  },
+  {
+    "title": "Family Tourism by Car",
+    "content": "Families can request car travel for sightseeing and tourism trips. Vehicle selection should consider passenger count, luggage and trip duration. Current vehicle availability and pricing should be confirmed before booking.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "family tourism"
+    }
+  },
+  {
+    "title": "Group Tourism by Bus",
+    "content": "Groups can enquire about bus travel for tourism or pilgrimage trips. The enquiry should include the number of passengers, destination, travel date and preferred bus requirements.",
+    "category": "service",
+    "source": "company_information",
+    "metadata": {
+      "service": "group travel"
+    }
+  },
+  {
+    "title": "Customized Tourism Trip",
+    "content": "A customized tourism trip can be planned around the customer's preferred destinations, travel dates, passenger count and vehicle type. The final itinerary depends on the requested route and vehicle availability.",
+    "category": "package",
+    "source": "company_information",
+    "metadata": {
+      "service": "customized tour"
+    }
+  },
+  {
+    "title": "One-Way Travel Enquiry",
+    "content": "For a one-way journey, customers should provide the pickup location, destination, travel date, passenger count and preferred vehicle type. Sri Veerabhadra Tours and Travels can then confirm available travel options.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "trip_type": "one-way"
+    }
+  },
+  {
+    "title": "Round-Trip Travel Enquiry",
+    "content": "For a round trip, customers should provide the pickup location, destination, departure date and return date, passenger count and preferred vehicle type. Availability and pricing should be confirmed with the travel business.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "trip_type": "round-trip"
+    }
+  },
+  {
+    "title": "Driver Requirement",
+    "content": "Customers who require a driver should mention this during the enquiry. Driver availability and any applicable charges should be confirmed with Sri Veerabhadra Tours and Travels for the selected vehicle and route.",
+    "category": "faq",
+    "source": "company_information",
+    "metadata": {
+      "topic": "driver"
+    }
+  },
+  {
+    "title": "Luggage Requirement",
+    "content": "Customers should mention significant luggage requirements when requesting a vehicle. Vehicle selection can depend on passenger count and luggage volume.",
+    "category": "faq",
+    "source": "company_information",
+    "metadata": {
+      "topic": "luggage"
+    }
+  },
+  {
+    "title": "Travel Date and Availability",
+    "content": "Vehicle availability is dependent on the requested travel date. Customers should provide the exact date when asking for a car or bus so the business can check current availability.",
+    "category": "faq",
+    "source": "company_information",
+    "metadata": {
+      "topic": "travel date"
+    }
+  },
+  {
+    "title": "Current Price Enquiry",
+    "content": "Travel prices can depend on vehicle type, distance, duration, route and other trip requirements. Customers should contact Sri Veerabhadra Tours and Travels for the current price rather than relying on an old quoted amount.",
+    "category": "pricing",
+    "source": "company_information",
+    "metadata": {
+      "topic": "pricing"
+    }
+  },
+  {
+    "title": "Booking Confirmation",
+    "content": "A travel enquiry and a confirmed booking are different. Customers should obtain confirmation from Sri Veerabhadra Tours and Travels before assuming that a vehicle has been reserved.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "topic": "confirmation"
+    }
+  },
+  {
+    "title": "Cancellation Enquiry",
+    "content": "Customers who need to cancel a booking should contact Sri Veerabhadra Tours and Travels as soon as possible. Any cancellation charge or refund should be confirmed for the specific booking because the applicable terms may vary.",
+    "category": "policy",
+    "source": "company_information",
+    "metadata": {
+      "topic": "cancellation"
+    }
+  },
+  {
+    "title": "Pickup Location Information",
+    "content": "Customers should provide a clear pickup location when making a travel enquiry. A landmark or complete location description can help the travel operator coordinate the trip.",
+    "category": "booking",
+    "source": "company_information",
+    "metadata": {
+      "topic": "pickup"
+    }
+  },
+  {
+    "title": "Destination Recommendation - Sripuram",
+    "content": "For customers interested in pilgrimage and heritage tourism, Sripuram near Vellore can be considered. Its main attraction is the Sri Lakshmi Narayani Golden Temple, with Vellore Fort and other nearby attractions available for a wider itinerary.",
+    "category": "recommendation",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram"
+    }
+  },
+  {
+    "title": "Destination Recommendation - Kanipakam",
+    "content": "For customers interested in pilgrimage tourism in Andhra Pradesh, Kanipakam can be considered. The main attraction is Sri Varasiddhi Vinayaka Swamy Temple, with other nearby temples and pilgrimage sites available for an itinerary.",
+    "category": "recommendation",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam"
+    }
+  },
+  {
+    "title": "Sripuram Heritage Tourism",
+    "content": "A heritage-focused Sripuram trip can include Vellore Fort, Jalakandeswarar Temple and the Government Museum along with the main Sripuram pilgrimage attractions.",
+    "category": "package",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "theme": "heritage"
+    }
+  },
+  {
+    "title": "Sripuram Nature Tourism",
+    "content": "Visitors interested in nature and wildlife can consider Amirthi Zoological Park, which the Vellore District tourism information lists as a tourist place about 25 km south of Vellore.",
+    "category": "package",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Vellore",
+      "theme": "nature"
+    }
+  },
+  {
+    "title": "Kanipakam Religious Tourism",
+    "content": "A religious tourism itinerary in Kanipakam can include Sri Varasiddhi Vinayaka Swamy Temple, Sri Varadaraja Swamy Temple, Sri Manikanteswara Swamy Temple and the Temple Pushkarini.",
+    "category": "package",
+    "source": "kanipakam_tourism_guide",
+    "metadata": {
+      "destination": "Kanipakam",
+      "theme": "pilgrimage"
+    }
+  },
+  {
+    "title": "Sripuram Nearest Railway Information",
+    "content": "The Sripuram tourism guide lists Katpadi Junction as the nearest major railway junction for Sripuram or Thirumalaikodi.",
+    "category": "travel_information",
+    "source": "sripuram_tourism_guide",
+    "metadata": {
+      "destination": "Sripuram",
+      "transport": "railway"
+    }
+  }
+]
